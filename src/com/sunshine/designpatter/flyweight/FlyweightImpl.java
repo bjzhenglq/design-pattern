@@ -1,0 +1,1 @@
+package com.sunshine.designpatter.flyweight;public class FlyweightImpl implements Flyweight {	@Override	public void action(int arg) {		// T0DO Auto-genera*ed method stub		System.out.println("参数值: " + arg);	}}

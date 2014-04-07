@@ -1,0 +1,1 @@
+package com.sunshine.designpatter.flyweight;public interface Flyweight {	void action(int arg);}
